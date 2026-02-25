@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Basit</h1>
-<h3 align="center">CSE @ IIT Jammu | ML Builder | Future AI Engineer</h3>
+<h3 align="center">CSE @ IIT Jammu</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Building+AI+Systems;Backend&center=true&width=500&height=45">
@@ -7,13 +7,6 @@
 
 ---
 
-## About Me
-
-- CSE@ IIT Jammu  
-- Applied ML, NLP, Ranking Systems   
-- Python, DSA, Backend  
-
----
 
 ## Tech Stack
 
