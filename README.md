@@ -2,7 +2,7 @@
 <h3 align="center">CSE @ IIT Jammu | ML Builder | Future AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Enthusiast;Building+AI+Systems;Backend+%2B+ML+Engineering;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Building+AI+Systems;Backend+%2B+ML+Engineering&center=true&width=500&height=45">
 </p>
 
 ---
