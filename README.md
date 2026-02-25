@@ -42,12 +42,6 @@
 
 ## Featured Projects
 
-### Resume ↔ Job Matching System
-- Embedding-based similarity
-- Ranking improvements over TF-IDF baseline
-- FastAPI deployment
-- Error analysis + evaluation metrics
-
 ### ClipFarmer
 - AI-powered clip extraction system
 - Backend + API integration
@@ -58,8 +52,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bats15&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bats15&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bats15&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bats15&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
 
 <p align="center">
