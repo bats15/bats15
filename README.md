@@ -2,9 +2,8 @@
 <h3 align="center">CSE @ IIT Jammu</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning;Building+AI+Systems;Backend&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Applied+Machine+Learning;Designing+Practical+AI+Systems;Backend+Engineering+with+Intent;Learning+Deeply,+Shipping+Cleanly&center=true&width=600&height=45">
 </p>
-
 ---
 
 
